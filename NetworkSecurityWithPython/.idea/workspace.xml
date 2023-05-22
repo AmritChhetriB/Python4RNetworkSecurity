@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95d4372c-e073-4e82-a9c1-fad7d9046f13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Network Scanner-Socket Programming/PortScanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Traffic Analysis-Scape Programming/Sniffing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/Readme-Running.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/Readme-Running.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/Python4RE-CommerceSecurity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/5-Minutes Python Bootcamp/5-Minutes -Bootcamp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/5-Minutes Python Bootcamp/AppLog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/5-Minutes Python Bootcamp/File.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/5-Minutes Python Bootcamp/File2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Advanced-Python-Coding/Lambda-Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Control--Statements/ControlStatements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Metadata-Analysis/Image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Metadata-Analysis/Metadata-Analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Network Monitoring/PortScanner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/OSINT4R-Footprinting/Shodan-SuspectsDetails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python4RE-CommerceSecurity/Quantum-Machine-Learning4RCyberSecurity/QML-Environment-Check.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q3YoR1CVv5m2jzhho0JRkzM8B8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Network Scanner-Socket Programming" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Public-Speaking\SIFS\E-Commerce Security and Security Controls\22-Firewall Security Research\Codebase\NetworkSecurityWithPython\Network Scanner-Socket Programming" />
+      <recent name="H:\Public-Speaking\SIFS\E-Commerce Security and Security Controls\22-Firewall Security Research\Codebase\NetworkSecurityWithPython\Traffic Analysis-Scape Programming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PortScanner">
+    <configuration name="DNSAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetworkSecurityWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming/DNSAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NetworkTraffic-Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetworkSecurityWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming/NetworkTraffic-Analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PortScanner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetworkSecurityWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Network Scanner-Socket Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Network Scanner-Socket Programming/PortScanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sniffing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetworkSecurityWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Traffic Analysis-Scape Programming/Sniffing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NetworkSecurityWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PortScanner" />
+        <item itemvalue="Python.NetworkTraffic-Analysis" />
+        <item itemvalue="Python.Sniffing" />
+        <item itemvalue="Python.DNSAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d4372c-e073-4e82-a9c1-fad7d9046f13" name="Changes" comment="" />
+      <created>1684583906772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684583906772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
